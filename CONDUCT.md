@@ -34,4 +34,7 @@ Maintainers will ensure the Cobra test suite utilizes the current supported vers
 
 ### Disclaimer
 Changes to this document and the contents therein are at the discretion of the maintainers.
-None of the contents of this document are legally binding in any way to the maintainers or the users.
+
+---
+
+> **Personal note:** This is my personal fork of cobra, used for learning and experimentation. The contract above reflects upstream policy; I don't enforce it here but aim to stay in sync with upstream where possible.
