@@ -7,7 +7,7 @@ Cobra will follow a steady release cadence. Non breaking changes will be release
 We will maintain two major releases in a moving window. The N-1 release will only receive bug fixes and security updates and will be dropped once N+1 is released.
 
 ### Deprecation
-Deprecation of Go versions or dependent packages will only occur in major releases. To reduce the change of this taking users by surprise, any large deprecation will be preceded by an announcement in the [#cobra slack channel](https://gophers.slack.com/archives/CD3LP1199) and an Issue on Github.
+Deprecation of Go versions or dependent packages will only occur in major releases. To reduce the chance of this taking users by surprise, any large deprecation will be preceded by an announcement in the [#cobra slack channel](https://gophers.slack.com/archives/CD3LP1199) and an Issue on Github.
 
 ### CVE
 Maintainers will make every effort to release security patches in the case of a medium to high severity CVE directly impacting the library. The speed in which these patches reach a release is up to the discretion of the maintainers. A low severity CVE may be a lower priority than a high severity one.
@@ -33,8 +33,5 @@ There may, at times, need to be exceptions where breaking changes are allowed in
 Maintainers will ensure the Cobra test suite utilizes the current supported versions of Golang.
 
 ### Disclaimer
-Changes to this document and the contents therein are at the discretion of the maintainers.
-
----
-
-> **Personal note:** This is my personal fork of cobra, used for learning and experimentation. The contract above reflects upstream policy; I don't enforce it here but aim to stay in sync with upstream where possible.
+Changes to this document and the contents therein are at the discretion
+of the maintainers.
