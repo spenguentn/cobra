@@ -33,5 +33,8 @@ There may, at times, need to be exceptions where breaking changes are allowed in
 Maintainers will ensure the Cobra test suite utilizes the current supported versions of Golang.
 
 ### Disclaimer
-Changes to this document and the contents therein are at the discretion
-of the maintainers.
+Changes to this document and the contents therein are at the discretion of the maintainers.
+
+---
+
+> **Personal note:** This is my personal fork for learning and experimentation. I do not maintain this fork for public use. Please refer to the upstream [spf13/cobra](https://github.com/spf13/cobra) repository for the official project.
